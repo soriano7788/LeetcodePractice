@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxHcvTUUNTPHVO8Grm/yk0lXZRl+xAEMgQlXr5CFPZAl4Oy/niVmHpiKiMTyWUvZS15dNjSPMsi8oMfIVF9y8g==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\Medium\\Subsets\\Subsets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

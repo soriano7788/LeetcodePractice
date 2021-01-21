@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.exe
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.deps.json
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.runtimeconfig.json
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.dll
+D:\WorkArea\LeetCode\MergeIntervals\bin\Debug\netcoreapp3.1\MergeIntervals.pdb
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.AssemblyInfo.cs
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.dll
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.pdb
+D:\WorkArea\LeetCode\MergeIntervals\obj\Debug\netcoreapp3.1\MergeIntervals.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.AssemblyInfo.cs
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.exe
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.deps.json
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.runtimeconfig.json
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.dll
+D:\WorkArea\LeetCode\FourSum\bin\Debug\netcoreapp3.1\FourSum.pdb
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.dll
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.pdb
+D:\WorkArea\LeetCode\FourSum\obj\Debug\netcoreapp3.1\FourSum.genruntimeconfig.cache

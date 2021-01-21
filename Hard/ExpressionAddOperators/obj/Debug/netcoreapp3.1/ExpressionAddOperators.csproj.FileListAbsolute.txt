@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.exe
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.deps.json
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.runtimeconfig.json
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.dll
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\bin\Debug\netcoreapp3.1\ExpressionAddOperators.pdb
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.dll
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.pdb
+D:\WorkArea\LeetCode\Hard\ExpressionAddOperators\obj\Debug\netcoreapp3.1\ExpressionAddOperators.genruntimeconfig.cache

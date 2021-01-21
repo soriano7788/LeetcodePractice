@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.exe
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.deps.json
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.runtimeconfig.json
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.dll
+D:\WorkArea\LeetCode\ValidSudoku\bin\Debug\netcoreapp3.1\ValidSudoku.pdb
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.AssemblyInfo.cs
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.dll
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.pdb
+D:\WorkArea\LeetCode\ValidSudoku\obj\Debug\netcoreapp3.1\ValidSudoku.genruntimeconfig.cache

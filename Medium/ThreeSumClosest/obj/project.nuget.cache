@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVBUCYizoE9+BmDU5aEs8j7V75g0B5LmtlV1vGP05EihBpRq3A8VfYGJ2injQHmOhhFLSmYulAmN6cmcN480hg==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\ThreeSumClosest\\ThreeSumClosest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

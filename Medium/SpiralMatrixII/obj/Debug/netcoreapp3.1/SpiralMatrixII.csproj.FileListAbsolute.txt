@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.exe
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.deps.json
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.runtimeconfig.json
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.dll
+D:\WorkArea\LeetCode\SpiralMatrixII\bin\Debug\netcoreapp3.1\SpiralMatrixII.pdb
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.AssemblyInfo.cs
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.dll
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.pdb
+D:\WorkArea\LeetCode\SpiralMatrixII\obj\Debug\netcoreapp3.1\SpiralMatrixII.genruntimeconfig.cache

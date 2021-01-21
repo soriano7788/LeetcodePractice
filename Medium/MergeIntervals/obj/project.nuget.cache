@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u32htbSZgD8MLjo+Ed42E7VXoElTw1KFv9zYToPmH5yABiWvQDh2c2SPhTlDLwAa9ifkeuTQlFZDr0QCjWcoxg==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\MergeIntervals\\MergeIntervals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

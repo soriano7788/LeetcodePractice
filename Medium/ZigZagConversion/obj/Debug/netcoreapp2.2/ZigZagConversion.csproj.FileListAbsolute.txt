@@ -1,0 +1,11 @@
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.AssemblyInfo.cs
+D:\WorkArea\LeetCode\ZigZagConversion\bin\Debug\netcoreapp2.2\ZigZagConversion.deps.json
+D:\WorkArea\LeetCode\ZigZagConversion\bin\Debug\netcoreapp2.2\ZigZagConversion.runtimeconfig.json
+D:\WorkArea\LeetCode\ZigZagConversion\bin\Debug\netcoreapp2.2\ZigZagConversion.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\ZigZagConversion\bin\Debug\netcoreapp2.2\ZigZagConversion.dll
+D:\WorkArea\LeetCode\ZigZagConversion\bin\Debug\netcoreapp2.2\ZigZagConversion.pdb
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.dll
+D:\WorkArea\LeetCode\ZigZagConversion\obj\Debug\netcoreapp2.2\ZigZagConversion.pdb

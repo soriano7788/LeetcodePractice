@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.exe
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.deps.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.dll
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\bin\Debug\netcoreapp3.1\CombinationSumIII.pdb
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.dll
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.pdb
+D:\WorkArea\LeetCode\Medium\CombinationSumIII\obj\Debug\netcoreapp3.1\CombinationSumIII.genruntimeconfig.cache

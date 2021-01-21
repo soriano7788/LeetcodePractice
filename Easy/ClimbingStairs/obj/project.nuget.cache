@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUiiy9I9YSWabcHikWTvCITi+XICYqN9WzV4WxpXuf1bViOagBCuNzCA2MSPXknSdTvjiQajM/hraHJWRZUWBA==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\Easy\\ClimbingStairs\\ClimbingStairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

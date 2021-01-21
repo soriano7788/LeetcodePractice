@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.exe
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.deps.json
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.dll
+D:\WorkArea\LeetCode\Medium\PerfectSquares\bin\Debug\netcoreapp3.1\PerfectSquares.pdb
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.dll
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.pdb
+D:\WorkArea\LeetCode\Medium\PerfectSquares\obj\Debug\netcoreapp3.1\PerfectSquares.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.exe
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.deps.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.dll
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\bin\Release\netcoreapp3.1\CombinationSumIV.pdb
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.dll
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.pdb
+D:\WorkArea\LeetCode\Medium\CombinationSumIV\obj\Release\netcoreapp3.1\CombinationSumIV.genruntimeconfig.cache

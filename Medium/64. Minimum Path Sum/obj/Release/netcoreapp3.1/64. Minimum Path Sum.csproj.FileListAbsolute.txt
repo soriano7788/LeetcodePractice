@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.exe
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.deps.json
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.dll
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\bin\Release\netcoreapp3.1\64. Minimum Path Sum.pdb
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.dll
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.pdb
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.genruntimeconfig.cache
+D:\WorkArea\LeetCode\Medium\64. Minimum Path Sum\obj\Release\netcoreapp3.1\64. Minimum Path Sum.csprojAssemblyReference.cache

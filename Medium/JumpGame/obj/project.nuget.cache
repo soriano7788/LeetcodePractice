@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcDgt9SW7HmFLrbq65fupqKS4dFbTgAPZyknv3FcHyP26IQKtXRTmFdgQMgSQE/5tpff6Tm9OdR0Y1iQ37Sd9w==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\JumpGame\\JumpGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

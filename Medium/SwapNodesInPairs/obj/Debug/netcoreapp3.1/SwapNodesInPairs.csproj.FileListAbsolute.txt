@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.exe
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.deps.json
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.runtimeconfig.json
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.dll
+D:\WorkArea\LeetCode\SwapNodesInPairs\bin\Debug\netcoreapp3.1\SwapNodesInPairs.pdb
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.AssemblyInfo.cs
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.dll
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.pdb
+D:\WorkArea\LeetCode\SwapNodesInPairs\obj\Debug\netcoreapp3.1\SwapNodesInPairs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.AssemblyInfo.cs
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.exe
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.deps.json
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.runtimeconfig.json
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.dll
+D:\WorkArea\LeetCode\GenerateParentheses\bin\Debug\netcoreapp3.1\GenerateParentheses.pdb
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.dll
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.pdb
+D:\WorkArea\LeetCode\GenerateParentheses\obj\Debug\netcoreapp3.1\GenerateParentheses.genruntimeconfig.cache

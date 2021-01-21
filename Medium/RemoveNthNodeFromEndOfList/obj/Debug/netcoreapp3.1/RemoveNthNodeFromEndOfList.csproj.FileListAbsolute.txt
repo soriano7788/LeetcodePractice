@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.AssemblyInfo.cs
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.exe
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.deps.json
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.runtimeconfig.json
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.dll
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\bin\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.pdb
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.dll
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.pdb
+D:\WorkArea\LeetCode\RemoveNthNodeFromEndOfList\obj\Debug\netcoreapp3.1\RemoveNthNodeFromEndOfList.genruntimeconfig.cache

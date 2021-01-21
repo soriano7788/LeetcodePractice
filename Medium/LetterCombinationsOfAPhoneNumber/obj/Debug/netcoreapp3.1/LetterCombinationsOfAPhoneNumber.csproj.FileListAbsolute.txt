@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.AssemblyInfo.cs
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.exe
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.deps.json
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.runtimeconfig.json
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.dll
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\bin\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.pdb
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.dll
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.pdb
+D:\WorkArea\LeetCode\LetterCombinationsOfAPhoneNumber\obj\Debug\netcoreapp3.1\LetterCombinationsOfAPhoneNumber.genruntimeconfig.cache

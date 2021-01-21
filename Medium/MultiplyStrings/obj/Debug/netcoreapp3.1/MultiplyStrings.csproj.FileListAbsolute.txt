@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.exe
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.deps.json
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.runtimeconfig.json
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.dll
+D:\WorkArea\LeetCode\MultiplyStrings\bin\Debug\netcoreapp3.1\MultiplyStrings.pdb
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.AssemblyInfo.cs
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.dll
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.pdb
+D:\WorkArea\LeetCode\MultiplyStrings\obj\Debug\netcoreapp3.1\MultiplyStrings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\WorkArea\LeetCode\Medium\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\WorkArea\LeetCode\Medium\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache

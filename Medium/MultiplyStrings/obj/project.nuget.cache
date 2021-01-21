@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9M8tt4k1F0xm8V1L/7mpl4xiTj5SHxHiTb6p4zeIMUTaimZtOQF9p+7cNMo/oJ16DSI31T1jPRoVnjMr0YNnQ==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\MultiplyStrings\\MultiplyStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

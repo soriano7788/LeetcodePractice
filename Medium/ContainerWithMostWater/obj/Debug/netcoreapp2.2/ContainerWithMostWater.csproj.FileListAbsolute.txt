@@ -1,0 +1,11 @@
+D:\WorkArea\LeetCode\ContainerWithMostWater\bin\Debug\netcoreapp2.2\ContainerWithMostWater.deps.json
+D:\WorkArea\LeetCode\ContainerWithMostWater\bin\Debug\netcoreapp2.2\ContainerWithMostWater.runtimeconfig.json
+D:\WorkArea\LeetCode\ContainerWithMostWater\bin\Debug\netcoreapp2.2\ContainerWithMostWater.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\ContainerWithMostWater\bin\Debug\netcoreapp2.2\ContainerWithMostWater.dll
+D:\WorkArea\LeetCode\ContainerWithMostWater\bin\Debug\netcoreapp2.2\ContainerWithMostWater.pdb
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.AssemblyInfo.cs
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.dll
+D:\WorkArea\LeetCode\ContainerWithMostWater\obj\Debug\netcoreapp2.2\ContainerWithMostWater.pdb

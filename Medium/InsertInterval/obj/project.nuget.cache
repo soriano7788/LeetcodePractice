@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpfZZA3VCFXxer1QlPFSQYafc2NepRW/KRdKl7DFpagJKwf43VYU7G6xnaF+cfQziyr3jLxvXBXbiuBu6Ug01g==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\InsertInterval\\InsertInterval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

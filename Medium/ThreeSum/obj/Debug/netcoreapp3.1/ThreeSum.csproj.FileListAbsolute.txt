@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.exe
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.deps.json
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.runtimeconfig.json
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.dll
+D:\WorkArea\LeetCode\ThreeSum\bin\Debug\netcoreapp3.1\ThreeSum.pdb
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.AssemblyInfo.cs
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.dll
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.pdb
+D:\WorkArea\LeetCode\ThreeSum\obj\Debug\netcoreapp3.1\ThreeSum.genruntimeconfig.cache

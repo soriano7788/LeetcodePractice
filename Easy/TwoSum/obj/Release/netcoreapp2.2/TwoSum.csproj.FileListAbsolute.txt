@@ -1,0 +1,12 @@
+D:\WorkArea\LeetCode\Easy\TwoSum\bin\Release\netcoreapp2.2\TwoSum.deps.json
+D:\WorkArea\LeetCode\Easy\TwoSum\bin\Release\netcoreapp2.2\TwoSum.runtimeconfig.json
+D:\WorkArea\LeetCode\Easy\TwoSum\bin\Release\netcoreapp2.2\TwoSum.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Easy\TwoSum\bin\Release\netcoreapp2.2\TwoSum.dll
+D:\WorkArea\LeetCode\Easy\TwoSum\bin\Release\netcoreapp2.2\TwoSum.pdb
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.dll
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.pdb
+D:\WorkArea\LeetCode\Easy\TwoSum\obj\Release\netcoreapp2.2\TwoSum.genruntimeconfig.cache

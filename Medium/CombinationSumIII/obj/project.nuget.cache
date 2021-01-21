@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qo+8Rwr2ISlnzNI1a5dtzJTDaIows/QN09i8CTbJuzjLrLUDfgQuGHytLx94k0YwrKmwm581pEXjBB4ErM+ZQ==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\Medium\\CombinationSumIII\\CombinationSumIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.exe
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.deps.json
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.dll
+D:\WorkArea\LeetCode\Medium\CoinChange\bin\Release\netcoreapp3.1\CoinChange.pdb
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.dll
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.pdb
+D:\WorkArea\LeetCode\Medium\CoinChange\obj\Release\netcoreapp3.1\CoinChange.genruntimeconfig.cache

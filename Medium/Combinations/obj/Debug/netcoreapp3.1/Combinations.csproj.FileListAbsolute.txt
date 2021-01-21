@@ -1,0 +1,13 @@
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+D:\WorkArea\LeetCode\Medium\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.csprojAssemblyReference.cache
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+D:\WorkArea\LeetCode\Medium\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQxwVIj9v/ok/YfW3Z8Z3WO81smYnwOCJbMzhvPSUmIw4uIfJXNMuvbNmS9uUlvvmyxcCrwCd9dcsVHQ9vp9jQ==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\Medium\\PerfectSquares\\PerfectSquares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

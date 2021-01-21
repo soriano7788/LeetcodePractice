@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ch5gtj1mSdmeWVPnDfuO5xHhH5YAPD4IUdG9NB1pECWRjJQodRbs5imPuSk4kcx7nSXZ46+6ICe7XhvI8Xuapg==",
+  "success": true,
+  "projectFilePath": "D:\\WorkArea\\LeetCode\\SpiralMatrixII\\SpiralMatrixII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cano Shih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
