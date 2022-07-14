@@ -26,7 +26,7 @@ namespace _312._Burst_Balloons
             //nums = new int[] { 1, 5 };
 
             // output: 1654
-            //nums = new int[] { 7, 9, 8, 0, 7, 1, 3, 5, 5, 2, 3 };
+            nums = new int[] { 7, 9, 8, 0, 7, 1, 3, 5, 5, 2, 3 };
 
             //int result = MaxCoins(nums);
             //int result = MaxCoins2(nums);
@@ -86,7 +86,8 @@ namespace _312._Burst_Balloons
             foreach(int num in nums)
             {
                 // 先排除掉 0，0 是最廢的，會讓一切化為烏有
-                if(num > 0)
+                // 這裡就算不先排除 0，也不影響最終執行結果，可能執行時間會稍微多一點
+                if (num > 0)
                 {
                     numsEX[n++] = num;
                 }
@@ -121,6 +122,11 @@ namespace _312._Burst_Balloons
                 // 為啥 nums[i] 的左右會是 nums[left] 和 nums[right]?
                 // 想到了!! 一開始就把最開頭和最結尾設為 1 了，這兩個位置實際上是超出邊界的位置，
                 // 只不過是用來幫助讓計算簡化
+
+                // 還是說，是把每一個 case 都當作是，只剩最左和最右邊界，
+                // 然後假設 left~i 和 i~right 之間的氣球都在前面的步驟全部弄破了，
+                // 所以現在是剩下 left、i、right 三個汽球相鄰
+                // 完整的 left 和 right 是額外加上的 1，所以就把剩下的 i 戳爆
                 int whatTheFuck = 
                     nums[left] * nums[i] * nums[right] 
                     + Burst(memo, nums, left, i) 
@@ -134,6 +140,7 @@ namespace _312._Burst_Balloons
         }
         #endregion
 
+        #region (X) run time exception
         private static int MaxCoins3(int[] nums)
         {
             int[] numsEX = new int[nums.Length+2];
@@ -171,11 +178,14 @@ namespace _312._Burst_Balloons
 
             return dp[0, n - 1];
         }
+        #endregion
 
+
+        #region 我自己模仿嘗試的解法
         private static int MaxCoinsMyVersion(int[] nums)
         {
             // 先把 左右加 1
-            // 先不把 0 排除掉
+            // 不把 0 排除掉
             int[] numsEX = new int[nums.Length + 2];
             for (int i = 1; i <= nums.Length; i++)
             {
@@ -195,7 +205,7 @@ namespace _312._Burst_Balloons
         }
         private static int FuckingSolve(int[,] dp, int[] nums, int left, int right)
         {
-            if (left == right)
+            if (left >= right)
             {
                 return 0;
             }
@@ -218,7 +228,7 @@ namespace _312._Burst_Balloons
             }
             return dp[left, right];
         }
-
+        #endregion
 
 
     }
